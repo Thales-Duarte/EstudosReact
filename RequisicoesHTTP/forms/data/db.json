@@ -1,0 +1,14 @@
+{
+  "produtos": [
+    {
+      "id": "1c0a",
+      "nome": "Condicionador",
+      "preco": "15,20"
+    },
+    {
+      "id": "0113",
+      "nome": "Shampoo",
+      "preco": "15,50"
+    }
+  ]
+}
